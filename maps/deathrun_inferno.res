@@ -1,0 +1,12 @@
+// deathrun_inferno.res - created with RESGen v2.0 BETA 3.
+// RESGen is made by Jeroen "ShadowLord" Bogers.
+// For more info go to http://resgen.hltools.com
+// or E-mail me at resgen@hltools.com.
+
+// .res entries (8):
+gfx/env/cl_desertup.tga
+gfx/env/cl_desertdn.tga
+gfx/env/cl_desertlf.tga
+gfx/env/cl_desertrt.tga
+gfx/env/cl_desertft.tga
+gfx/env/cl_desertbk.tga
